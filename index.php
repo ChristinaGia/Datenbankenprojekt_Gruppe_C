@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>
-            Create new User
+            Create new User2
         </title>
     </head>
     <body>
